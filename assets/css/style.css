@@ -1,0 +1,73 @@
+body {
+    background: url(../images/lilypads.png)
+}
+
+h1 {
+    color: white;
+    background: orange;
+    padding: 15px;
+    width: 250px;  
+    text-align: center;  
+}
+
+#description {
+    background: rgb(238, 213, 183);
+    color: green;
+    font-weight: bold;
+    padding: 10px 0 50px 0;
+    width: 50%;
+    overflow: auto;
+}
+
+#target {
+    padding: 20px;
+    background: green;
+    margin: 10px 0;
+    width: 200px;
+    height: 150px;
+    font-size: 3cm;
+    text-align: center;
+    float: left;
+}
+
+#results {
+    padding: 20px;
+    background: aqua;
+    width: 80px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    margin: 10px;
+}
+
+#crystals {
+    clear: both;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+    margin: 5px;
+    border: 2px solid;
+}
+
+h2 {
+    width: 200px;
+    padding: 5px;
+    background: rgb(7, 167, 153);
+    color: white;
+    text-align: center;
+}
+
+#total {
+    padding: 20px;
+    background: green;
+    margin: 10px 0;
+    width: 200px;
+    height: 150px;
+    font-size: 3cm;
+    text-align: center;
+    background: rgb(7, 167, 153);
+    color: white;
+}
